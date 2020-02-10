@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://upheedoof.explainable.systems/sitemap.xml
